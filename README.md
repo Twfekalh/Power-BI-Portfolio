@@ -1,6 +1,6 @@
 # Power-BI-Portfolio
 
-![protfolio Dashboard](Screenshot 2026-04-05 162739.png)
+![Sales Dashboard](Screenshot 2026-04-05 162739.png)
 
 see the full dashboard here - [App Power Bi link](https://app.powerbi.com/view?r=eyJrIjoiYjVhNzFlZmItZDNlMC00MzIxLWEwNDUtNjI2ZDYxNzM4ODdlIiwidCI6IjFjMjYwNmEzLWE2ODAtNDVlMy1iNTZmLWMyNDY4NGIxNTQxNSIsImMiOjl9)
 
